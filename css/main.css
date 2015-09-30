@@ -28,13 +28,15 @@ header {
   background-size: cover;
   background-position: center top;
   padding-top: 100px;
+  position: relative;
 }
 
 h1 {
   color: white;
   font-weight: normal;
   font-size: 2em;
-
+  bottom: 20%;
+  position: absolute;
 }
 
 h2 {
