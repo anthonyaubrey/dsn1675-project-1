@@ -1,0 +1,57 @@
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+html {
+  line-height: 1.25;
+  body sizing: border-box;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  font-family: 'PT Sans', sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  background-image: url('../images/anthony.jpg');
+  min-height: 300px;
+  background-size: cover;
+  background-position: center top;
+  padding-top: 100px;
+}
+
+h1 {
+  color: white;
+  font-weight: normal;
+  font-size: 2em;
+
+}
+
+h2 {
+  font-weight: normal;
+  font-size: 2em;
+}
+
+.imgbe {
+  width: 18%;
+  align: center;
+}
+
+.new {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+main {
+  padding-left: 1em;
+  padding-right: 1em;
+}
