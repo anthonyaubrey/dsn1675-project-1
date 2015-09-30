@@ -33,11 +33,12 @@ header {
 
 h1 {
   color: white;
-  font-weight: normal;
+  font-weight: 500;
   font-size: 2em;
   bottom: 20%;
   position: absolute;
   padding-left: .5em;
+  border: 1.25px solid white;
 }
 
 h2 {
