@@ -37,6 +37,7 @@ h1 {
   font-size: 2em;
   bottom: 20%;
   position: absolute;
+  padding-left: .5em;
 }
 
 h2 {
