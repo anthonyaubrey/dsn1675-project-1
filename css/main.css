@@ -35,9 +35,10 @@ h1 {
   color: white;
   font-weight: 500;
   font-size: 2em;
-  bottom: 20%;
+  bottom: 10%;
   position: absolute;
   padding-left: .5em;
+  padding-right: 2em;
   border: 1.25px solid white;
 }
 
