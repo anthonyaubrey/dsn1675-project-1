@@ -60,3 +60,7 @@ main {
   padding-left: 1em;
   padding-right: 1em;
 }
+
+.center {
+  text-align: center;
+}
