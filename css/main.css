@@ -81,7 +81,6 @@ main {
     font-weight: 500;
     font-size: 2.5em;
     bottom: 35%;
-    position: absolute;
     padding-left: .5em;
     padding-right: .5em;
     border: 1.25px solid white;
@@ -107,7 +106,6 @@ main {
     font-size: 2.5em;
     text-align: center;
   }
-
 
 }
 @media only screen and (min-width: 60em) {
