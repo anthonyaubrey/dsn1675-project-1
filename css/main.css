@@ -92,9 +92,13 @@ main {
     position: relative;
   }
 
+  .imgbe {
+    width: 15%;
+    align: center;
+  }
+
 
 }
-
 @media only screen and (min-width: 60em) {
   html {
     font-size: 120%;
@@ -106,4 +110,10 @@ main {
     background-size: cover;
     background-position: center top;
   }
+
+  .imgbe {
+    width: 15%;
+    align: center;
+  }
+
 }
