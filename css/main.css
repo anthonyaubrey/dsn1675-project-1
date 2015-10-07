@@ -63,8 +63,12 @@ main {
 
 .center {
   text-align: center;
+
 }
 
+.social {
+  text-decoration: none;
+}
 .wrapper {
   max-width: 30em;
   margin: 0 auto;
